@@ -1,4 +1,4 @@
-import sys
+
 def gcd(r1, r2):
     if(r1==r2):     #if numbers are the same
         return r2
