@@ -1,2 +1,2 @@
-# The euclidean algo
-# The extended euclidean algorithm
+The euclidean algo
+The extended euclidean algorithm
